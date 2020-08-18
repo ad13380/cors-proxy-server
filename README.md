@@ -1,1 +1,1 @@
-A simple proxy app to get around the CORS Error cause by the [How Many People are In Space API](https://www.howmanypeopleareinspacerightnow.com/peopleinspace.json)
+A purpose built proxy server to get around the CORS Error cause by the [How Many People are In Space API](https://www.howmanypeopleareinspacerightnow.com/peopleinspace.json)
